@@ -1,0 +1,10 @@
+body {
+    height: 100vh;
+    cursor: none;
+}
+
+img {
+    position: fixed;
+    width: 10rem;
+    height: 10rem;
+}
