@@ -1,0 +1,16 @@
+img {
+    width: 20rem;
+    height: 20rem;
+}
+
+.invisible {
+    display: none;
+}
+
+#magic {
+    position: fixed;
+    top: 23rem;
+    right: 5rem;
+    width: 20rem;
+    height: 20rem;
+}
